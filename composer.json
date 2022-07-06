@@ -1,0 +1,17 @@
+{
+    "name": "eggysetiawan/unit-test",
+    "autoload": {
+        "psr-4": {
+            "Eggysetiawan\\UnitTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rahmat Setiawan",
+            "email": "setiawaneggy@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
